@@ -12,7 +12,7 @@ This repository contains a complete C++ implementation of the feed recommendatio
         - This repo uses FAISS C++ library. Install FAISS (CPU) and make sure CMake finds it.
         - Cross-encoder and embedding inference are placeholders; replace with ONNXRuntime or other inference engine.
 
-To run code, open `src/main.cpp`(https://github.com/only1aeon/Cpp---Feed-search-Recommendation-App/blob/main/src/main.cpp)
+To run code, open [`src/main.cpp`](https://github.com/only1aeon/Cpp---Feed-search-Recommendation-App/blob/main/src/main.cpp)
 
 **Build (Linux)**
         ```
