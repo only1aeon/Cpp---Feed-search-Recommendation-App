@@ -12,6 +12,8 @@ This repository contains a complete C++ implementation of the feed recommendatio
         - This repo uses FAISS C++ library. Install FAISS (CPU) and make sure CMake finds it.
         - Cross-encoder and embedding inference are placeholders; replace with ONNXRuntime or other inference engine.
 
+To run code, open `src/main.cpp`()
+
 **Build (Linux)**
         ```
         # install dependencies (example for Ubuntu)
