@@ -1,4 +1,4 @@
-        # C++ Recommender: Feed Ranking + Hybrid Search with FAISS
+ #C++ Recommender: Feed Ranking + Hybrid Search with FAISS
 
 This repository contains a complete C++ implementation of the feed recommendation and hybrid search ranking system with FAISS-style vector search integration.
 
