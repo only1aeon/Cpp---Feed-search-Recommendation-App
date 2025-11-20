@@ -20,7 +20,7 @@ g++ -std=c++17 -O2 -o recommender main.cpp
 ```
 
 **Build (Linux)**
-        ```linux
+```bash
         # install dependencies (example for Ubuntu)
         sudo apt-get update
         sudo apt-get install -y build-essential cmake libblas-dev liblapack-dev
